@@ -1,5 +1,5 @@
 <?hh
-abstract class :bs:base extends :ui:base {
+abstract class :bs:base extends :base:element {
     attribute   enum {'muted','primary','success','info','warning','danger'} text-color,
                 enum {'primary','success','info','warning','danger'} bg-color,
                 enum {'left','right'} pull,
