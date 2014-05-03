@@ -1,0 +1,9 @@
+{
+    "name": "rdewilde/xhp-twitter-bootstrap",
+    "description": "Twitter Bootstrap implementation for XHP",
+    
+    "require": {
+        "hhvm": "*"
+    },
+    "classmap": ["xhp/"]
+}
