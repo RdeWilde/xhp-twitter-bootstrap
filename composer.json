@@ -6,5 +6,7 @@
         "hhvm/xhp": "*",
         "rdewilde/xhp-base": "dev-master"
     },
-    "classmap": ["xhp/"]
+    "autoload": {
+        "classmap": ["xhp/"]
+    }
 }
