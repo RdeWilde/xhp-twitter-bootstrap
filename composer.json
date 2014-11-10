@@ -4,7 +4,7 @@
     
     "require": {
         "facebook/xhp": "*",
-        "rdewilde/xhp-base": "dev-master"
+        "rdewilde/xhp-base": "*"
     },
     "autoload": {
         "classmap": ["xhp/"]
