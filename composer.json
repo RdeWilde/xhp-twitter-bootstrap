@@ -3,7 +3,7 @@
     "description": "Twitter Bootstrap implementation for XHP",
     
     "require": {
-        "facebook/xhp": "*",
+        "facebook/xhp-lib": "*",
         "rdewilde/xhp-base": "*"
     },
     "autoload": {
